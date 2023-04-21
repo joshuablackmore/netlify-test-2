@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.custom-img {
+  background-image: url('/public/Joshua-Blackmore.jpg');
+}
+
 
 body {
   margin: 0;
