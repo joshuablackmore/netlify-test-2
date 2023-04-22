@@ -6,6 +6,10 @@
   background-image: url('/public/Joshua-Blackmore.jpg');
 }
 
+html {
+  font-family: 'Source Code Pro', sans-serif;
+}
+
 
 /* body {
   margin: 0;
