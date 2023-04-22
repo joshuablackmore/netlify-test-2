@@ -2,7 +2,7 @@ import React from 'react'
 
 const BackgroundHero = () => {
   return (
-    <div className="relative flex w-full h-screen items-center justify-center  min-[466px]:h-screen sm:h-screen md:h-screen lg:h-screen xl:h-screen overflow-hidden">
+    <div className="relative flex w-full h-[100dvh] items-center justify-center  min-[466px]:h-screen sm:h-screen md:h-screen lg:h-screen xl:h-screen overflow-hidden">
         <video
           autoPlay
           playsInline
