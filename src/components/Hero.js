@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div className='flex items-center justify-center h-[100dvh] bg-fixed bg-center bg-cover custom-img over'>
+    <div className='flex items-center justify-center h-[100dvh] bg-fixed bg-center bg-cover custom-img overflow-hidden'>
         <div className='absolute top-0 bottom-0 left-0 right-0 bg-black/70 overflow-hidden' />
         <div className='text-white z-10'>
         <h1 className='text-5xl text-center'>Site under construction</h1>
