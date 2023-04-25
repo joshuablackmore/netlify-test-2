@@ -1,0 +1,1 @@
+export const VideoData = ['https://www.youtube.com/embed/z_s1Nb3JwDY', 'https://www.youtube.com/embed/1M5nEM1BA6A']
