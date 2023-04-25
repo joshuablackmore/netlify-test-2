@@ -1,1 +1,2 @@
-export const VideoData = ['https://www.youtube.com/embed/z_s1Nb3JwDY', 'https://www.youtube.com/embed/1M5nEM1BA6A']
+export const VideoData = [
+    'https://www.youtube.com/embed/z_s1Nb3JwDY', 'https://www.youtube.com/embed/1M5nEM1BA6A', 'https://www.youtube.com/embed/cuEP1QE4GhI', 'https://www.youtube.com/embed/9UO7Z2tqbsQ']
